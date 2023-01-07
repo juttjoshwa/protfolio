@@ -1,0 +1,80 @@
+/* .skillList{
+    background-color: red;
+    height: 8ch;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */
+.rowS {
+    color: none;
+    background-color: rgb(224, 250, 250);
+    margin-top: 0ch;
+}
+
+.COLUMNSkill {
+    background-color: rgb(224, 250, 250);
+}
+
+.containerS {
+    background-color: rgb(224, 250, 250);
+    user-select: none;
+}
+
+.list-group {
+    border-radius: 30px;
+}
+
+.skillList {
+    border-radius: 30px;
+    height: fit-content;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 30), 0 6px 40px 0 rgba(0, 0, 0, 30);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4));
+}
+
+.SkillImg1 {
+    margin-left: 19.5ch;
+    height: 4rem;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 10), 0 6px 40px 0 rgba(0, 0, 0, 10);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.paraText {
+    font-size: 2rem;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 30), 0 6px 40px 0 rgba(0, 0, 0, 30);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+}
+
+.SkillMainText {
+    padding-left: 1ch;
+    padding-top: .3ch;
+    padding-bottom:.3ch;
+    padding-right: 1ch;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    border-radius: 4ch;
+}
+
+.headingText {
+    padding-top: 5ch;
+    padding-bottom: 4ch;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 30), 0 6px 40px 0 rgba(0, 0, 0, 30);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+    user-select: none;
+}
+
+.para {
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 30), 0 6px 40px 0 rgba(0, 0, 0, 30);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4));
+}
+
+.Center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

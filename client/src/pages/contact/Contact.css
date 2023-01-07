@@ -1,0 +1,34 @@
+.contactHeader{
+    user-select: none;
+    font-family: 'Josefin Slab', serif;
+    padding-top: 8ch;
+    padding-bottom: 6ch;
+    background-color: rgb(224, 250, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Feelfreetocontact{
+    padding-left: 1ch;
+    padding-top: .5ch;
+    padding-bottom: .9;
+    padding-right: 1ch;
+    font-weight: 900;
+    font-size: 4.5ch;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);  
+    border-radius: 4ch;   
+}  
+.formContainer{
+    user-select: none;
+    background-color: rgb(224, 250, 250);
+    padding-left: 20ch;
+    padding-top: 8ch;
+    padding-right: 20ch;
+    padding-bottom: 12ch;
+    justify-content: center;
+    align-items: center;
+}
+.btnPlaceProject{
+    margin-left: 0ch;
+    border-radius: 12px;
+}
